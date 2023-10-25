@@ -1,4 +1,4 @@
 Welcome to MyProject!!
 
-Author: Lokesh Dangare
+Author: Lokesh Sudhakar Dangare
 Twitter: @lokeshdangare
