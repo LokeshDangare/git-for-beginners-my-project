@@ -2,4 +2,4 @@ Welcome to the "Git for Beginners" MyProject!!
 
 Author: Lokesh Sudhakar Dangare
 Twitter: @lokeshdangare
-Website: www.lokeshdangare.com
+Website: https://www.lokeshdangare.com
